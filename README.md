@@ -15,7 +15,7 @@ To get started with this project, clone the repository and ensure you have Flutt
 
 Clone the repository:
    ```
-   git clone [repository-url]
+   git clone https://github.com/atomic-loops/text_highter_repo.git
    ```
 
 ### Running the Application
